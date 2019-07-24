@@ -1,5 +1,5 @@
 /**
- * synchronized关键字
+ * synchronized
  * 同步方法-static
  * 静态同步方法，锁的是当前类型的类对象。在本代码中就是TestDemo02.class
  */
